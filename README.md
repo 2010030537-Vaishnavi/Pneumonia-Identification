@@ -1,3 +1,6 @@
+##Pneumonia Identification
+This project is part of Machine learning hackathon organized by sparkhub.
+
 ## Inspiration
 Every year in India around 200-300 people die with pneumonia according to previous year statistics the major age group affected with pneumonia are above 70 and below 5 years old. Early detection of pneumonia is crucial for determining the appropriate treatment of the disease and preventing it from threatening the patient’s life. So we inspired to build a web app which detects pneumonia using lung X-ray images with greater accuracy.
 
